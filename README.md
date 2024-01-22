@@ -1,6 +1,6 @@
-# Mutify
+# TP Mongo Neo4J
 
-Appication Flutter qui permet de chercher des artistes et leurs musiques pour en écouter une partie
+API sur la base de données movie
 
 ## Pré-requis
 
@@ -14,7 +14,7 @@ Appication Flutter qui permet de chercher des artistes et leurs musiques pour en
 ```bash
 pip install 'fastapi[all]' 'pymongo[srv]' python-dotenv neo4j
 ```
-3. Renseigner les informations de la base de donnée dans le fichier .env
+3. Renseigner les informations de la base de données dans le fichier .env
 4. Dans le terminal se rendre dans le dossier fastapi-movies et lancer l'application avec la commande suivante
 
 ```bash
